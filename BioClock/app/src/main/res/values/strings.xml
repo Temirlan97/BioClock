@@ -1,3 +1,45 @@
 <resources>
     <string name="app_name">BioClock</string>
+    <string name="title">Check your Biological Clock</string>
+    <string name="description">
+        1. Click the START button.\n
+        2. Estimate the time of 1 minute in your head.\n
+        3. Press the STOP button.\n
+        4. See your result.
+    </string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="reset_button">Restart</string>
+    <string name="waiting_info">
+        Press the STOP button, if you think\n
+        it was already 1 minute since you pressed the button.
+    </string>
+    <string name="too_fast">
+        Can you even estimate the time?\n
+        You are too fast!\n
+        Your Biological Clock is faster than Usain Bolt!\n
+    </string>
+    <string name="fast">
+        You are not an owl neither a lark.\n
+        You don\'t have habits of waking up very early or late.\n
+        You can adapt to different conditions.\n
+        That is your advantage!\n
+    </string>
+    <string name="precise">
+        Congratulations!\n
+        You are an early bird.\n
+        This is a rare personality type.\n
+        Waking up early is easy and preferable for you.
+    </string>
+    <string name="slow">
+        I think you know it very good yourself..\n
+        You are a night owl.\n
+        It is really hard for you to wake up very early.\n
+        But you rarely panic or stress yourself out.
+    </string>
+    <string name="tooSlow">
+        I believe you just forgot to push the Stop button.\n
+        You were too slow.\n
+        May be your BioClock is just broken.\n
+    </string>
 </resources>
